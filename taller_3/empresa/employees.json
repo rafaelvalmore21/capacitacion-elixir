@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "name": "Jane Smith",
+    "position": "Manager",
+    "email": null,
+    "phone": "555-1234",
+    "hire_date": "2023-01-15",
+    "salary": null
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "position": "Developer",
+    "email": "john@example.com",
+    "phone": null,
+    "hire_date": null,
+    "salary": 7.5e4
+  },
+  {
+    "id": 2,
+    "name": "Camilo",
+    "position": "Quintana",
+    "email": "camiloQ@mail.com",
+    "phone": "3184568",
+    "hire_date": null,
+    "salary": null
+  },
+  {
+    "id": 1,
+    "name": "Santiago",
+    "position": "Posada",
+    "email": "santiagoqmail.com",
+    "phone": "32168987",
+    "hire_date": null,
+    "salary": null
+  }
+]
