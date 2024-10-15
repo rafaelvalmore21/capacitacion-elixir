@@ -1,0 +1,9 @@
+{application,course_supervisor_project,
+             [{config_mtime,1728966447},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger,jason]},
+              {description,"course_supervisor_project"},
+              {modules,['Elixir.CourseApp','Elixir.CourseManager',
+                        'Elixir.CourseSupervisor']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
