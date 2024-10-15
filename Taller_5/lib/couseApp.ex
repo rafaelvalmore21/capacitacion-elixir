@@ -27,6 +27,8 @@ defmodule CourseApp do
   end
 end
 
+### Pasos para el uso
+
 ### Ejecute para instalar dependencias
 # mix deps.get
 
